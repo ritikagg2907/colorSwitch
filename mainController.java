@@ -1,4 +1,4 @@
-package sample;
+package colorSwitch;
 
 import javafx.animation.RotateTransition;
 import javafx.event.ActionEvent;
@@ -7,7 +7,7 @@ import javafx.scene.shape.Arc;
 import javafx.scene.shape.Circle;
 import javafx.util.Duration;
 
-public class Controller {
+public class mainController {
 
     @FXML
     private Circle C1;
