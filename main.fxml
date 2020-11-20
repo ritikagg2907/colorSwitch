@@ -8,7 +8,7 @@
 <?import javafx.scene.shape.Arc?>
 <?import javafx.scene.shape.Circle?>
 
-<GridPane alignment="center" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+<GridPane alignment="center" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="colorSwitch.mainController">
    <columnConstraints>
       <ColumnConstraints maxWidth="4.800018072128296" minWidth="0.0" prefWidth="3.999999761581421" />
       <ColumnConstraints maxWidth="700.0" minWidth="695.1999819278717" prefWidth="696.0000002384186" />
