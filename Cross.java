@@ -47,7 +47,7 @@ public class Cross extends Obstacles{
 		l4.setEndX(CX+len);
 		l4.setEndY(CY-len);
 		l4.setStrokeWidth(width);
-		l4.setStroke(Color.WHITE);
+		l4.setStroke(Color.PURPLE);
 		l4.setStrokeLineCap(StrokeLineCap.ROUND);
 		
 		Group tri = new Group(l1,l2,l3,l4);
